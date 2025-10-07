@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Eduardo Jose Moreno
 
-<!--
-**edumor/edumor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mí
+- 🌱 Actualmente aprendiendo desarrollo en **Blockchain y Web3**
+- 💡 Interesado en **Smart Contracts**, **DeFi**, y **DAOs**
+- 🎯 Mi objetivo: Convertirme en desarrollador Ethereum profesional
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que estoy aprendiendo
+- **Solidity** - Smart Contracts
+- **Web3.js/Ethers.js** - Interacción con blockchain
+- **Hardhat/Truffle** - Frameworks de desarrollo
+- **MetaMask** - Gestión de wallets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌐 Mi Viaje en Web3
+Comenzando mi camino en el desarrollo descentralizado, enfocándome en:
+- Seguridad en contratos inteligentes
+- Desarrollo de DApps
+- Protocolos DeFi
+- Governance y DAOs
+
+## 📫 Contacto
+- GitHub: [@edumor](https://github.com/edumor)
+- LinkedIn: [Eduardo Moreno](https://www.linkedin.com/in/eduardo-moreno-15813b19b/)
+- Email: eduardomoreno2503@gmail.com
+
+---
+⚡ *"El futuro es descentralizado"*
+```
+
+Algunos Proyectos
+- ✅ 
+- ✅ Usa emojis para hacerlo más atractivo
+- ✅ Incluye tus objetivos profesionales en Web3
+
+---
 -->
