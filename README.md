@@ -6,6 +6,17 @@
 💡 Interesado en Smart Contracts, DeFi, y DAOs  
 🎯 Mi objetivo: Convertirme en desarrollador Ethereum profesional
 
+## 🎓 Formación Académica y Profesional
+
+**Educación Superior:**
+- 🎓 **Licenciado en Sistemas** - Universidad Católica Argentina (U.C.A.) - 1993
+- 📊 **MBA** - Universidad Politécnica de Madrid - 2000
+
+**Desarrollo y Capacitación Técnica:**
+- 🐍 **Developers Front-Backend con Python** - Talento Tech, Ministerio de Educación CABA - 2024
+- 🔥 **Beginner and Advanced in Python** - Talento Tech, Ministerio de Educación CABA - 2024
+- ⚡ **Ethereum Developers Pack** - ETH-KIPU
+
 ### 🛠️ Tecnologías que domino y estoy aprendiendo
 
 **Desarrollo Frontend & Backend:**
