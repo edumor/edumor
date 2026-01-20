@@ -1,66 +1,70 @@
-- - # ¡Hola! 👋 Soy Eduardo Jose Moreno
+# Hello! 👋 I'm Eduardo Jose Moreno
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-🌱 Actualmente aprendiendo desarrollo en Blockchain y Web3  
-💡 Interesado en Smart Contracts, DeFi, y DAOs  
-🎯 Mi objetivo: Convertirme en desarrollador Ethereum profesional
+🌱 Currently learning Blockchain and Web3 development  
+💡 Interested in Smart Contracts, DeFi, and DAOs  
+🎯 My goal: Become a professional Ethereum developer
 
-## 🎓 Formación Académica y Profesional
+## 🎓 Academic and Professional Background
 
-**Educación Superior:**
-- 🎓 **Licenciado en Sistemas** - Universidad Católica Argentina (U.C.A.) - 1993
-- 📊 **MBA** - Universidad Politécnica de Madrid - 2000
+### Education:
 
-**Desarrollo y Capacitación Técnica:**
-- 🐍 **Developers Front-Backend con Python** - Talento Tech, Ministerio de Educación CABA - 2024
-- 🔥 **Beginner and Advanced in Python** - Talento Tech, Ministerio de Educación CABA - 2024
-- ⚡ **Ethereum Developers Pack** - ETH-KIPU
+- 🎓 Bachelor's Degree in Systems - Universidad Católica Argentina (U.C.A.) - 1993
+- 📊 MBA - Universidad Politécnica de Madrid - 2000
 
-### 🛠️ Tecnologías que domino y estoy aprendiendo
+### Development and Technical Training:
 
-**Desarrollo Frontend & Backend:**
-- 🌐 **HTML** - Estructura y semántica web
-- 🎨 **CSS** - Diseño y estilos responsivos
-- ⚡ **JavaScript** - Programación dinámica web
-- � **Python Advanced** - Desarrollo backend y scripting
-- 🔧 **Delphi** - Desarrollo de aplicaciones de escritorio
-- 📱 **Object Pascal** - Programación orientada a objetos
-- ☕ **Java** - Aplicaciones empresariales
-- � **Node.js** - Desarrollo backend con JavaScript
+- 🐍 Developers Front-Backend with Python - Talento Tech, Ministry of Education CABA - 2024
+- 🔥 Beginner and Advanced in Python - Talento Tech, Ministry of Education CABA - 2024
+- ⚡ Ethereum Developers Pack - ETH-KIPU
+
+### 🛠️ Technologies I Master and Am Learning
+
+**Frontend & Backend Development:**
+
+- 🌐 HTML - Web structure and semantics
+- 🎨 CSS - Responsive design and styles
+- ⚡ JavaScript - Dynamic web programming
+- 🐍 Python Advanced - Backend development and scripting
+- 🔧 Delphi - Desktop application development
+- 📱 Object Pascal - Object-oriented programming
+- ☕ Java - Enterprise applications
+- 💚 Node.js - Backend development with JavaScript
 
 **Blockchain Development:**
-- 💎 **Solidity** - Smart Contracts
-- 🌐 **Web3.js/Ethers.js** - Interacción con blockchain
-- 🔨 **Hardhat/Truffle** - Frameworks de desarrollo
-- 🦊 **MetaMask** - Gestión de wallets
 
-### 🌐 Mi Viaje en Web3
+- 💎 Solidity - Smart Contracts
+- 🌐 Web3.js/Ethers.js - Blockchain interaction
+- 🔨 Hardhat/Truffle - Development frameworks
+- 🦊 MetaMask - Wallet management
 
-Comenzando mi camino en el desarrollo descentralizado, enfocándome en:
+### 🌐 My Web3 Journey
 
-- 🔒 Seguridad en contratos inteligentes
-- 🚀 Desarrollo de DApps
-- 💰 Protocolos DeFi
-- 🏛️ Governance y DAOs
+Starting my path in decentralized development, focusing on:
 
-### 🚀 Algunos Proyectos
+- 🔒 Smart contract security
+- 🚀 DApp development
+- 💰 DeFi protocols
+- 🏛️ Governance and DAOs
 
-- ✅ [**Tradicom Flask**](https://github.com/edumor/tradicom-flask.git) - Aplicación web con Flask
-- ✅ [**Proyecto Principal**](https://github.com/edumor/proyecto.git) - Desarrollo full-stack
-- ✅ [**Proyecto Tradicom**](https://github.com/edumor/proyecto-tradicom.git) - Sistema de gestión comercial
-- ✅ [**Proyecto Integrador**](https://github.com/edumor/proyecto-integrador.git) - Aplicación integrada
-- ✅ [**Portfolio Web**](https://github.com/edumor/edumor.github.io.git) - Mi sitio web personal
-- ✅ [**Sistema de Subastas**](https://github.com/edumor/Subasta.git) - Plataforma de subastas online
-- ✅ [**SimpleSwap DApp**](https://github.com/edumor/simpleswap-dapp.git) - Aplicación descentralizada de intercambio
-- ✅ [**Eth Kipu Security Analysis**](https://github.com/edumor/eth-kipu-modue5-secutiry-analysis.git) - Análisis de seguridad Ethereum
-- ✅ [**Starknet Resolve Hackathon**](https://github.com/edumor/starknet-resolve-hackathon.git) - Proyecto para hackathon Starknet
+### 🚀 Some Projects
 
-### 📫 Contacto
+- ✅ [Tradicom Flask](https://github.com/edumor/tradicom-flask.git) - Web application with Flask
+- ✅ [Main Project](https://github.com/edumor/proyecto.git) - Full-stack development
+- ✅ [Tradicom Project](https://github.com/edumor/proyecto-tradicom.git) - Commercial management system
+- ✅ [Integrator Project](https://github.com/edumor/proyecto-integrador.git) - Integrated application
+- ✅ [Web Portfolio](https://github.com/edumor/edumor.github.io.git) - My personal website
+- ✅ [Auction System](https://github.com/edumor/Subasta.git) - Online auction platform
+- ✅ [SimpleSwap DApp](https://github.com/edumor/simpleswap-dapp.git) - Decentralized exchange application
+- ✅ [Eth Kipu Security Analysis](https://github.com/edumor/eth-kipu-modue5-secutiry-analysis.git) - Ethereum security analysis
+- ✅ [Starknet Resolve Hackathon](https://github.com/edumor/starknet-resolve-hackathon.git) - Starknet hackathon project
 
-- � **GitHub**: [@edumor](https://github.com/edumor)
-- � **LinkedIn**: Eduardo Moreno
-- 📧 **Email**: eduardomoreno2503@gmail.com
+### 📫 Contact
+
+- 🐙 GitHub: [@edumor](https://github.com/edumor)
+- 💼 LinkedIn: Eduardo Moreno
+- 📧 Email: [eduardomoreno2503@gmail.com](mailto:eduardomoreno2503@gmail.com)
 
 ### 📊 GitHub Stats
 
@@ -68,14 +72,14 @@ Comenzando mi camino en el desarrollo descentralizado, enfocándome en:
 
 ---
 
-⚡ **"El futuro es descentralizado"**
+⚡ "The future is decentralized"
 
-> 🔒 **Security First**: Todos mis contratos inteligentes priorizan la seguridad y siguen las mejores prácticas para las finanzas descentralizadas.
+> 🔒 **Security First**: All my smart contracts prioritize security and follow best practices for decentralized finance.
 
-### 🎓 Cursos y Certificaciones
+### 🎓 Courses and Certifications
 
-- 🎯 **Developer Frontend & Backend** - Especialización en desarrollo web completo
-- 🐍 **Python Advanced** - Programación avanzada y desarrollo backend
-- 🌐 **Blockchain & Web3 Development** - Desarrollo descentralizado
-- 💎 **Smart Contracts & Solidity** - Programación de contratos inteligentes
-- 🔐 **Security Analysis** - Análisis de seguridad en blockchain
+- 🎯 Developer Frontend & Backend - Specialization in full web development
+- 🐍 Python Advanced - Advanced programming and backend development
+- 🌐 Blockchain & Web3 Development - Decentralized development
+- 💎 Smart Contracts & Solidity - Smart contract programming
+- 🔐 Security Analysis - Blockchain security analysis
