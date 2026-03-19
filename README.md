@@ -2,7 +2,7 @@
 
 **Software Architect · Blockchain/Web3 · Backend Python · Full Stack**  
 📍 Buenos Aires, Argentina · 🌎 Available for remote projects in LATAM & Spain  
-✉️ eduardomoreno2503@gmail.com · 💼 [www.linkedin.com/in/eduardo-moreno-15813b19b)
+✉️ eduardomoreno2503@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/eduardomoreno-15813b19b)
 
 ---
 
@@ -24,7 +24,7 @@ I don't just write code — I deliver **production systems**. From a DEX on Ethe
 `Solidity` `Cairo` `Hardhat` `Ethers.js` `Web3.js` `Ethereum` `Starknet L2` `DeFi Protocols` `Smart Contract Security Auditing` `MetaMask`
 
 ### 🐍 Backend Python
-`Flask` `FastAPI` `TensorFlow` `Pandas` `REST APIs`
+`Flask` `FastAPI` `TensorFlow` `Pandas` `openpyxl` `ReportLab` `REST APIs`
 
 ### 🌐 Full Stack
 `HTML` `CSS` `JavaScript` `Node.js` `SQL`
@@ -50,6 +50,28 @@ Live Flask web application deployed at [tradicom.com.ar](https://www.tradicom.co
 
 ### 📊 [Microbell Dashboard](https://github.com/edumor/edumor.github.io)
 Real-time BI dashboard (Chart.js) actively used for strategic decision-making at Microbell S.A. Covers sales, costs, replenishment, and P&L — built as a single-file HTML application deployed on GitHub Pages.
+
+### 🏷️ [Microbell Juguetería — Competitive Pricing BI](https://github.com/edumor/Microbell-Jugueteria)
+End-to-end Business Intelligence system for competitive pricing analysis on Mercado Libre Argentina — **Toy Line, Top 30 SKUs by stock (41,801 units)**.
+
+**What it solves:** Aligning Microbell's e-commerce publication prices with real market data, ensuring every listing covers the full operational cost of the ML channel while maximizing competitive positioning.
+
+**Data pipeline:**
+- Ingests two internal sources: a CSV stock file (latin-1, semicolon-separated) and an XLSX wholesale price list with Excel formulas (`openpyxl data_only=True` to resolve cached values)
+- Cross-references by SKU (5-digit code) to produce a unified pricing dataset
+- Applies a 9-step pricing chain: Purchase Cost → Operational Floor (+50%) → Wholesale List → Current ML Price (×1.80) → Competitor Scraping → Optimal Competitive Price (`MAX(competitor × 0.85 ; floor × 1.20)`)
+
+**Competitive intelligence:** Web scraping of competitor sites (Google-indexed, since ML uses JS rendering that blocks direct extraction). Confirmed prices from 10 active ML sellers across 8 product categories.
+
+**Outputs — 3 interactive HTML dashboards + PDF report:**
+- `dashboard_precios_optimos_jugueteria_microbell.html` — 30-SKU comparison table, 7 KPIs, bar charts, category filters, alerts
+- `analisis_competitivo_ml_jugueteria_microbell.html` — Competitor breakdown by category with vendor tier (Platinum/Gold/Standard)
+- `dashboard_rentabilidad_jugueteria_microbell.html` — Full methodology chain, profitability actual vs. optimal, gain-per-unit and uplift analysis
+- `informe_metodologia_precios_jugueteria_microbell.pdf` — Executive report with methodology, findings and recommendations
+
+**Key findings:** Average current profitability 190% over operational floor → recommended optimal pricing raises it to 232%, representing an additional **+$113M ARS** in projected margin on existing stock (+27.7%).
+
+**Stack:** Python · pandas · openpyxl · HTML/CSS/JS · Chart.js · ReportLab (PDF generation)
 
 ### 🏛️ [Subasta (Auction System)](https://github.com/edumor/Subasta)
 Online auction platform. Full-stack development with business logic for bid management, user flow, and state control.
