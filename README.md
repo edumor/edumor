@@ -1,134 +1,93 @@
-# Eduardo José Moreno
+# Hi, I'm Eduardo José Moreno 👋
 
-**Senior Software Developer · Blockchain & Web3 · Backend Python · Full Stack**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Moreno-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/eduardomoreno-15813b19b)
-[![GitHub](https://img.shields.io/badge/GitHub-edumor-181717?style=flat&logo=github)](https://github.com/edumor)
-[![Email](https://img.shields.io/badge/Email-eduardomoreno2503%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardomoreno2503@gmail.com)
-[![Portfolio](https://img.shields.io/badge/CV-English-blue?style=flat&logo=adobeacrobatreader)](https://linkedin.com/in/eduardomoreno-15813b19b)
+**Software Architect · Blockchain/Web3 · Backend Python · Full Stack**  
+📍 Buenos Aires, Argentina · 🌎 Available for remote projects in LATAM & Spain  
+✉️ eduardomoreno2503@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/eduardomoreno-15813b19b)
 
 ---
 
-## About me
+## About Me
 
-Software Architect with **20+ years of experience** in critical systems. I combine high-level technical execution with business vision (B.Sc. in Systems – UCA / MBA attended – Universidad Politécnica de Madrid).
+Software architect with **20+ years of experience** in critical systems — combining high-level technical execution with real business vision.
 
-My differentiator: **real production experience** — not practice projects. From ERP systems managing 600 people across 32 branches to a DEX on Ethereum with verified contracts on Sepolia.
+I don't just write code — I deliver **production systems**. From a DEX on Ethereum with verified contracts on Sepolia and >95% test coverage, to a live Flask web application at [tradicom.com.ar](https://www.tradicom.com.ar), to a real-time BI dashboard currently driving strategic decisions at a wholesale distribution company with 17+ years of operational history.
 
-- Specialized in **Blockchain/Web3** (Solidity, Cairo, Ethereum, Starknet)
-- **Backend Python** (Flask, FastAPI, Machine Learning)
-- **Full Stack** and enterprise systems (ERP, HR, executive reporting)
-- Available for **remote projects in LATAM and Spain**
-
----
-
-## Tech stack
-
-### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum)
-![Starknet](https://img.shields.io/badge/Starknet-EC4A3F?style=flat)
-![Cairo](https://img.shields.io/badge/Cairo-FF4B4B?style=flat)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat)
-
-### Backend & Python
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-
-### Full Stack & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Legacy & ERP
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=delphi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-`Flexxus ERP` · `ObjectPal/Paradox` · `COBOL`
+- 🎓 **B.S. in Computer Systems** — Universidad Católica Argentina (UCA), 1993  
+- 📊 **MBA (1st year)** — Universidad Politécnica de Madrid, 2000  
+- 🏢 Currently: **IT & Operations Manager** at Microbell S.A., Buenos Aires
 
 ---
 
-## Featured projects
+## Tech Stack
 
-### 🔷 [SimpleSwap DApp](https://github.com/edumor/simpleswap-dapp) — DEX on Ethereum
-Decentralized exchange (AMM) with gas storage optimization, >95% test coverage and verified contracts on Sepolia Testnet.
-- **Stack:** Solidity · Hardhat · Next.js 15 · Wagmi · Ethers.js · TypeScript
-- **Live demo:** [simpleswap-dapp-nextjs.vercel.app](https://simpleswap-dapp-nextjs.vercel.app/)
-- **Verified contracts:** [SimpleSwap on Etherscan](https://sepolia.etherscan.io/address/0x425504D881701B7a4Fd5dA00924737365a74A0AA)
-- ETH-KIPU TP4 academic project — full NatSpec documentation and single storage access pattern
+### ⛓️ Blockchain / Web3
+`Solidity` `Cairo` `Hardhat` `Ethers.js` `Web3.js` `Ethereum` `Starknet L2` `DeFi Protocols` `Smart Contract Security Auditing` `MetaMask`
 
-### 🔷 [Starknet Resolve — International Hackathon](https://github.com/edumor/starknet-resolve-hackathon)
-Smart contracts in Cairo on Starknet (L2). Built during an international hackathon.
-- **Stack:** Cairo · Starknet · L2 · Web3
+### 🐍 Backend Python
+`Flask` `FastAPI` `TensorFlow` `Pandas` `REST APIs`
 
-### 🔷 [ETH KIPU — Security Analysis (Module 5)](https://github.com/edumor/eth-kipu-modue5-secutiry-analysis)
-Smart contract vulnerability analysis: reentrancy, overflow, access control in Solidity.
-- **Stack:** Solidity · Hardhat · Testing
+### 🌐 Full Stack
+`HTML` `CSS` `JavaScript` `Node.js` `SQL`
 
-### 🌐 [Tradicom Flask — Production Web System](https://github.com/edumor/tradicom-flask)
-Full enterprise web application, live at [tradicom.com.ar](https://www.tradicom.com.ar).
-- **Stack:** Python · Flask · Jinja2 · Bootstrap 5 · JavaScript · PostgreSQL
-
-### 🌐 [Online Auction System](https://github.com/edumor/Subasta)
-Real-time auction platform with bidding logic and data persistence.
-- **Stack:** Python · Flask · JavaScript
-
-### 🌐 [Web Portfolio](https://github.com/edumor/edumor.github.io)
-Personal portfolio deployed as a static site.
-- **Stack:** HTML5 · CSS3 · GitHub Pages
+### 🏢 Enterprise Systems
+`ERP Flexxus` `Power BI` `RRHH Management` `Delphi` `Object Pascal` `COBOL`
 
 ---
 
-## Professional experience
+## Featured Projects
 
-| Period | Company | Role |
+### 🔄 [SimpleSwap DApp](https://github.com/edumor/simpleswap-dapp)
+Decentralized exchange (DEX) built on Ethereum. Smart contracts verified on Sepolia testnet, >95% test coverage with Hardhat. Full DeFi swap flow with Ethers.js frontend integration.
+
+### 🔒 [ETH Kipu Security Analysis](https://github.com/edumor/eth-kipu-modue5-secutiry-analysis)
+Smart contract security audit and vulnerability analysis. Module 5 of the ETH Kipu Ethereum Developers Pack — focused on reentrancy, access control, and common attack vectors in Solidity.
+
+### 🏗️ [Starknet Resolve Hackathon](https://github.com/edumor/starknet-resolve-hackathon)
+Hackathon project on Starknet L2 using Cairo. Explores ZK-rollup architecture and L2 scalability patterns for DeFi use cases.
+
+### 🌐 [Tradicom Flask](https://github.com/edumor/tradicom-flask)
+Live Flask web application deployed at [tradicom.com.ar](https://www.tradicom.com.ar). Full backend/frontend integration, REST API, production deployment.
+
+### 📊 [Microbell Dashboard](https://github.com/edumor/edumor.github.io)
+Real-time BI dashboard (Chart.js) actively used for strategic decision-making at Microbell S.A. Covers sales, costs, replenishment, and P&L — built as a single-file HTML application deployed on GitHub Pages.
+
+### 🏛️ [Subasta (Auction System)](https://github.com/edumor/Subasta)
+Online auction platform. Full-stack development with business logic for bid management, user flow, and state control.
+
+### 🐍 [Proyecto Integrador](https://github.com/edumor/proyecto-integrador)
+Full-stack Python integrator project. Backend API with database integration and frontend interface.
+
+---
+
+## Certifications
+
+| Credential | Issuer | Year |
 |---|---|---|
-| 2008 – 2026 | **Microbell S.A.** | IT Manager, HR & Operations |
-| 2003 – 2008 | **Got S.A.** | Business Development Manager |
-| 1993 – 2002 | **Tecnoconsult S.A.** | Administrative & Financial Director (600 staff, 32 branches) |
-| 1985 – 1993 | **ABAPRA** | Administrative / HR / Systems Developer |
+| Power BI | Buenos Aires / Agencia de Habilidades para el Futuro | 2026 |
+| Talento Tech · Power BI | Ministerio de Educación CABA | 2026 |
+| Ethereum Developers Pack | ETH Kipu | 2025 |
+| Introducción a Smart Contracts | Talento Tech & ETH-KIPU | 2025 |
+| Codo a Codo 4.0 · Full Stack Python | Ministerio de Educación CABA | 2024 |
+| Python Avanzado | Talento Tech · Ministerio de Educación CABA | 2024 |
+| Iniciación a la Programación con Python | Agencia de Habilidades para el Futuro | 2024 |
 
 ---
 
-## Certifications (2024)
+## Professional Background
 
-- **Ethereum Developers Pack** — ETH-KIPU
-- **Smart Contracts & Solidity** — Talento Tech & ETH-KIPU
-- **Full Stack Python** — Codo a Codo 4.0 (Buenos Aires Ciudad)
-- **Power BI** — Microsoft
-- **Advanced Python** — Talento Tech
+**20+ years** across enterprise, financial, and telecom sectors:
 
----
-
-## Education
-
-- **B.Sc. in Information Systems** — Universidad Católica Argentina (UCA) · 1993
-- **MBA — 1st year completed (partial)** — Universidad Politécnica de Madrid · 2000–2001
-- **Languages:** Spanish (native) · English (technical)
+- **Microbell S.A.** *(2008 – present)* — IT Manager, HR & Operations. ERP implementation (Flexxus), systems development in Delphi, Power BI reporting, payroll management.
+- **Got S.A.** *(2003 – 2008)* — Business Development Manager. Built a full in-house management system in ObjectPal/Paradox covering sales, stock, accounts, and reporting.
+- **Tecnoconsult S.A.** *(1993 – 2002)* — Administrative & Financial Director. Led a 600-person organization across 32 branches as Official Telecom S.A. Agent.
+- **ABAPRA** *(1985 – 1993)* — Systems Developer & HR Administrator. Delphi development for banking data processing and administrative systems.
 
 ---
 
-## GitHub stats
+## GitHub Stats
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edumor&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumor&layout=compact&theme=default&hide_border=true)
-
----
-
-## Contact
-
-Available for **remote projects in LATAM and Spain**.
-
-📧 [eduardomoreno2503@gmail.com](mailto:eduardomoreno2503@gmail.com)
-📱 +54 11 6856-0011
-💼 [linkedin.com/in/eduardomoreno-15813b19b](https://linkedin.com/in/eduardomoreno-15813b19b)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edumor&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ---
 
-*Buenos Aires, Argentina · February 2026*
+> *"The future is decentralized — and it runs on production-grade code."*
