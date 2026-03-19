@@ -1,8 +1,8 @@
-# Hi, I'm Eduardo José Moreno 👋
+# Eduardo José Moreno
 
 **Software Architect · Blockchain/Web3 · Backend Python · Full Stack**  
 📍 Buenos Aires, Argentina · 🌎 Available for remote projects in LATAM & Spain  
-✉️ eduardomoreno2503@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/eduardomoreno-15813b19b)
+✉️ eduardomoreno2503@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-moreno-15813b19b)
 
 ---
 
